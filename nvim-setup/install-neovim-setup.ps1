@@ -47,6 +47,7 @@ $scoopApps = @(
 	"bat",
 	"less",
     "make",
+    "oh-my-posh",
     "llvm"    # cho clangd và C/C++
 )
 
